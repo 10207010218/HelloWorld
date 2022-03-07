@@ -9,4 +9,3 @@ echo "hello world"
 
 
 
-reverse test
